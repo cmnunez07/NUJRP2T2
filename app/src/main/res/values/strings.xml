@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NUJRP2T1</string>
+    <string name="hola1">ssj</string>
+    <string name="color1">TODOverde</string>
+    <string name="color2">azul</string>
+    <string name="titulo">Operaciones</string>
+    <string name="titulo2">TESOEM</string>
+    <string name="val1">Valor 1</string>
+    <string name="val2">Valor 2</string>
+    <string name="Bsuma">Suma</string>
+    <string name="Bresta">Resta</string>
+    <string name="Bmultiplicacion">Multiplicacion</string>
+    <string name="Bdivision">Division</string>
+    <string name="escuela">TESOEM-7S11</string>
+    <string name="result">Resultado</string>
+
+
+</resources>
